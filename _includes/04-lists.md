@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Fighting Martial arts
+  * Especialy Taekwondo
+* Playing video games
+  * FPS and strategy games
